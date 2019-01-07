@@ -2,12 +2,12 @@
   "name": "gatsby-remark-design-system",
   "description": "Remark plugin to create your design system with preconfigured specimens",
   "version": "2.0.0",
-  "author": "LekoArts <hello@lekoarts.de>",
+  "author": "AOMCloudEnterprise <aomcloudenterprise@outlook.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/LeKoArts/gatsby-remark-design-system"
+    "url": "https://github.com/danklut/gatsby-remark-design-system"
   },
-  "homepage": "https://github.com/LeKoArts/gatsby-remark-design-system/blob/master/README.md",
+  "homepage": "https://github.com/danklut/gatsby-remark-design-system/blob/master/README.md",
   "dependencies": {
     "babel-runtime": "^6.26.0",
     "clipboard": "^2.0.1",
